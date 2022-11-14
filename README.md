@@ -1,26 +1,20 @@
  # Olá! Que bom que você veio! 
  
- Meu nome é Larissa e sou estudante autodidata em programação! 
+ Meu nome é Larissa e sou estudante autodidata em programação :)
  
  ***MEUS CONHECIMENTOS CONSOLIDADOS:*** 
   - HTML
   - CSS
   - Javascript 
-  
   --- 
   
  ***MEUS CONHECIMENTOS EM CONSTRUÇÃO***
  
- **FRONT-END**: 
- - REACTJS
- - ANGULAR
+ **FRONT-END**: REACTJS, ANGULAR
  
- ***BACK-END***: 
- - Python 
+ ***BACK-END***: Python 
  
- ***+++***: 
- - AWS
- - LOWCODE
+ ***+++***: AWS, LOWCODE
 
 --- 
 
