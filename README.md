@@ -1,14 +1,20 @@
  # Olá! Que bom que você veio! 
  
- Meu nome é Larissa e sou estudante autodidata em programação :)
+ Meu nome é Larissa e sou estudante autodidata em programação! Procuro trabalhar como desenvolvedora front-end (e em um futuro quem sabe fullstack)
  
- **MEUS CONHECIMENTOS CONSOLIDADOS:** 
+ Você pode me encontrar em: 
+- Linkedin: https://www.linkedin.com/in/larissacamillybrisola/
+- Email: larissacamillybrisola@gmail.com
+ 
+ --- 
+ 
+ ## **MEUS CONHECIMENTOS CONSOLIDADOS:** 
   - HTML
   - CSS
   - Javascript 
-  --- 
+  - Node.js
   
- **MEUS CONHECIMENTOS EM CONSTRUÇÃO**
+ ## **MEUS CONHECIMENTOS EM CONSTRUÇÃO**
  
  ***FRONT-END***: REACTJS, ANGULAR
  
