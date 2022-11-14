@@ -2,15 +2,15 @@
  
  Meu nome é Larissa e sou estudante autodidata em programação :)
  
- ***MEUS CONHECIMENTOS CONSOLIDADOS:*** 
+ **MEUS CONHECIMENTOS CONSOLIDADOS:** 
   - HTML
   - CSS
   - Javascript 
   --- 
   
- ***MEUS CONHECIMENTOS EM CONSTRUÇÃO***
+ **MEUS CONHECIMENTOS EM CONSTRUÇÃO**
  
- **FRONT-END**: REACTJS, ANGULAR
+ ***FRONT-END***: REACTJS, ANGULAR
  
  ***BACK-END***: Python 
  
