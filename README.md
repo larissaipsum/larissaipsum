@@ -3,9 +3,9 @@
  Meu nome é Larissa e sou estudante autodidata em programação! Procuro trabalhar como desenvolvedora front-end (e em um futuro quem sabe fullstack)
  
  Você pode me encontrar em: 
-- Linkedin: https://www.linkedin.com/in/larissacamillybrisola/
+- [Linkedin](https://www.linkedin.com/in/larissacamillybrisola/)
+- [Twitter](https://twitter.com/larissaeiou/)
 - Email: larissacamillybrisola@gmail.com
- 
  --- 
  
  ## **MEUS CONHECIMENTOS CONSOLIDADOS:** 
