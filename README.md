@@ -1,31 +1,9 @@
- # Olá! Que bom que você veio! 
+ # OLAAA! 
  
- Meu nome é Larissa e sou estudante autodidata em programação! Procuro trabalhar como desenvolvedora front-end (e em um futuro quem sabe fullstack)
+ Esse perfil ta vazio mas não sai ainda, por favor! Essa conta ficou pra tras mas como enviei muito cv com ela, vai que a sorte vem ao meu encontro? Deixo aqui meu novo github e linkedin para mais informações:
  
- Você pode me encontrar em: 
-- [Linkedin](https://www.linkedin.com/in/larissacamillybrisola/)
-- [Twitter](https://twitter.com/larissaeiou/)
-- Email: larissacamillybrisola@gmail.com
- --- 
- 
- ## **MEUS CONHECIMENTOS CONSOLIDADOS:** 
-  - HTML
-  - CSS
-  - Javascript 
-  - Node.js
-  
- ## **MEUS CONHECIMENTOS EM CONSTRUÇÃO**
- 
- ***FRONT-END***: REACTJS, ANGULAR
- 
- ***BACK-END***: Python 
- 
- ***+++***: AWS, LOWCODE
+★ https://github.com/larissajson 
 
---- 
-
-<div align="center" >
-  <a href="https://github.com/larissaipsum">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=larissaipsum&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissaipsum&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+★ https://www.linkedin.com/in/larissacamillybrisola/
+ 
+ 
